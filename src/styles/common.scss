@@ -1,0 +1,20 @@
+html,body{
+    font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;   
+    font-weight: normal;
+    font-size: 100%;
+    color: rgba(0, 0, 0, 0.65);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #666666;
+    height: 100%;
+    li{
+        list-style: none;
+    }
+    a{
+        text-decoration-line: none;
+    }
+}
+*{
+    padding: 0;
+    margin: 0;
+}
